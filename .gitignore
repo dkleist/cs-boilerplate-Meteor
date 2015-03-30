@@ -1,0 +1,14 @@
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+
+.meteor/.id
+.meteor/local
+.meteor/meteorite
+
+.idea/*
+
+dump
+
+settings.json
+config/settings.json
